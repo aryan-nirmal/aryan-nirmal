@@ -2,7 +2,7 @@
 
 # Hi, I'm Aryan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Building+sports+recovery+tech+for+grassroots+athletes;Shipping+23+products+in+23+weeks+-+23for23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Building+sports+recovery+tech+for+grassroots+athletes;Shipped+23+products+in+90+days+-+23for23)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryannirmal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____aryannirmal)
