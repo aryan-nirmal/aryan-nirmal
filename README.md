@@ -23,18 +23,6 @@
 - 📫 **Reach me at** — aryannirmal1109@gmail.com
 - ⚡ **Fun fact** — ranked **#1 nationally in the Google AI Exchange Program** (800/800) among 300,000+ participants, and hold dual **Oracle Cloud Infrastructure (OCI)** certifications
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aryan-nirmal&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 #### 🧠 Languages
