@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently building** — an AI-powered sports recovery & injury-prevention system that turns budget smartwatch data into elite-level sports science for grassroots Indian athletes, paired with a circadian-rhythm scheduling layer for high performers
-- 🎯 **Currently shipping** — **23for23**: 23 production-grade builds spanning LLM tooling, micro-SaaS, and applied ML, one at a time, no shortcuts
+- 🎯 **Currently shipping** — **23for23**: Shipped 23 production-grade builds spanning LLM tooling, micro-SaaS, and applied ML, one at a time, no shortcuts
 - 🌱 **Currently learning** — advanced LLM fine-tuning, production ML systems, and distributed system design
 - 💬 **Ask me about** — LLMs, micro-SaaS, mobile app development, AI/ML pipelines, or freelancing as a builder
 - 📫 **Reach me at** — aryannirmal1109@gmail.com
