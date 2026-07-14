@@ -113,11 +113,6 @@
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aryan-nirmal&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Aryan's GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=aryan-nirmal&theme=chartreuse-dark&hide_border=false" alt="Aryan's GitHub Streak" />
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryan-nirmal&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
-</p>
-
 <br>
 
 ## 🕹️ My Contributions, Gamified
