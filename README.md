@@ -21,7 +21,7 @@
 - 🌱 **Currently learning** — advanced LLM fine-tuning, production ML systems, and distributed system design
 - 💬 **Ask me about** — LLMs, micro-SaaS, mobile app development, AI/ML pipelines, or freelancing as a builder
 - 📫 **Reach me at** — aryannirmal1109@gmail.com
-- ⚡ **Fun fact** — ranked **#1 nationally in the Google AI Exchange Program** (800/800) among 300,000+ participants, and hold dual **Oracle Cloud Infrastructure (OCI)** certifications
+- **Oracle Cloud Infrastructure (OCI)** certifications
 
 ## 🛠️ Tech Stack
 
