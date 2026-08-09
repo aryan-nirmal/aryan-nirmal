@@ -1,0 +1,39 @@
+<svg width="720" height="330" viewBox="0 0 720 330" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Fira Code', Menlo, monospace">
+  <defs>
+    <clipPath id="cardClip">
+      <rect width="720" height="330" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect width="720" height="330" fill="#0d1117"/>
+    <rect width="720" height="38" fill="#161b22"/>
+    <circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="19" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="19" r="6" fill="#27c93f"/>
+    <text x="340" y="24" fill="#8b949e" font-size="12" text-anchor="middle">aryan.py</text>
+  </g>
+  <rect x="0.5" y="0.5" width="719" height="329" rx="12" ry="12" fill="none" stroke="#30363d"/>
+
+  <text font-size="14" xml:space="preserve">
+    <tspan x="26" y="70"><tspan fill="#6e7681">1</tspan><tspan x="52" fill="#ff7b72">class</tspan><tspan fill="#d2a8ff"> Aryan</tspan><tspan fill="#c9d1d9">:</tspan></tspan>
+
+    <tspan x="26" y="98"><tspan fill="#6e7681">2</tspan><tspan x="52" fill="#ff7b72">    def</tspan><tspan fill="#d2a8ff"> __init__</tspan><tspan fill="#c9d1d9">(self):</tspan></tspan>
+
+    <tspan x="26" y="126"><tspan fill="#6e7681">3</tspan><tspan x="52" fill="#79c0ff">        self.role</tspan><tspan fill="#c9d1d9">     = </tspan><tspan fill="#a5d6ff">"Full-Stack Developer &amp; AI/ML Engineer"</tspan></tspan>
+
+    <tspan x="26" y="154"><tspan fill="#6e7681">4</tspan><tspan x="52" fill="#79c0ff">        self.stack</tspan><tspan fill="#c9d1d9">    = [</tspan><tspan fill="#a5d6ff">"Python"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"React Native"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"TypeScript"</tspan><tspan fill="#c9d1d9">]</tspan></tspan>
+
+    <tspan x="26" y="182"><tspan fill="#6e7681">5</tspan><tspan x="52" fill="#79c0ff">        self.building</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"AI-powered sports-recovery for athletes"</tspan></tspan>
+
+    <tspan x="26" y="210"><tspan fill="#6e7681">6</tspan><tspan x="52" fill="#79c0ff">        self.shipping</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"23for23 — 23 shipped builds, no shortcuts"</tspan></tspan>
+
+    <tspan x="26" y="238"><tspan fill="#6e7681">7</tspan><tspan x="52" fill="#79c0ff">        self.base</tspan><tspan fill="#c9d1d9">     = </tspan><tspan fill="#a5d6ff">"B.Tech CSE (AI/ML), MIT · President @ ACTS"</tspan></tspan>
+
+    <tspan x="26" y="266"><tspan fill="#6e7681">8</tspan></tspan>
+
+    <tspan x="26" y="294"><tspan fill="#6e7681">9</tspan><tspan x="52" fill="#ff7b72">    def</tspan><tspan fill="#d2a8ff"> reach</tspan><tspan fill="#c9d1d9">(self):</tspan></tspan>
+
+    <tspan x="26" y="322"><tspan fill="#6e7681">10</tspan><tspan x="58" fill="#ff7b72">        return</tspan><tspan fill="#a5d6ff"> "aryannirmal1109@gmail.com"</tspan></tspan>
+  </text>
+</svg>
