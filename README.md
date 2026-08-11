@@ -24,7 +24,7 @@
 
 <br>
 
-## Activity
+##Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-nirmal&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF" width="100%"/>
 
