@@ -33,8 +33,8 @@
 ## Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aryan-nirmal&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false" alt="Aryan's GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=aryan-nirmal&theme=chartreuse-dark&hide_border=true" alt="Aryan's GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aryan-nirmal&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=7AA2F7&text_color=FFFFFF&icon_color=7AA2F7" alt="Aryan's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=aryan-nirmal&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakNum=7AA2F7&sideNums=7AA2F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Aryan's GitHub Streak" />
 </p>
 
 <div align="center">
