@@ -1,45 +1,42 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=190&section=header&text=Aryan%20Nirmal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+### Aryan Nirmal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+sports-recovery+tech+for+grassroots+athletes;Full-stack+%2B+applied+ML%2C+one+shipped+build+at+a+time;Python+%C2%B7+React+%2B+React+Native+%C2%B7+JavaScript%2FTypeScript)](https://git.io/typing-svg)
+**0→1 Full-Stack Product Engineer** — building and shipping SaaS products, e-commerce platforms, and client web systems end to end.
 
-<a href="https://www.linkedin.com/in/aryannirmal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/aryannirmal____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="mailto:aryannirmal1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+B.Tech CSE (AI/ML), graduating Jun 2027 · Final university exam **Dec 5, 2026** · **Available on-site in Bengaluru from Dec 7** or **remote immediately**.
 
-<br><br>
+- **Email:** [aryannirmal1109@gmail.com](mailto:aryannirmal1109@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aryannirmal](https://www.linkedin.com/in/aryannirmal)
+- **Portfolio:** [portfolio-eta-umber-32.vercel.app](https://portfolio-eta-umber-32.vercel.app)
 
-<img src="./assets/bio-card.svg" width="640"/>
-</div>
+---
 
-<br>
+### Shipped Production Work
 
-## Stack
-<div align="center">
-<img src="./assets/stack-card.svg" width="100%"/>
-</div>
+Active SaaS and client production repositories are private for customer and IP security; live deployments and engineering scope below:
 
-<br>
+| Product | What It Does | Stack & Engineering Ownership | Live |
+| :--- | :--- | :--- | :--- |
+| **Tablo** | Multi-tenant QR loyalty & Google review SaaS for cafes and restaurants | React 19, Vite, Supabase (Auth, Postgres RLS), Vercel, Cloudflare — Google OAuth, staff RBAC, 3-day trial RPCs, HMAC POS webhook verification, super-admin console | [tablo.co.in](https://tablo.co.in) |
+| **Mr. Crafter** *(Client)* | Full-stack D2C craft & gifting marketplace + store operator admin | React, Vite, Node.js, Supabase, Razorpay, Shiprocket — catalog, checkout, wishlist, inventory, orders & promotions admin | [mr-crafter-uo6m.vercel.app](https://mr-crafter-uo6m.vercel.app) |
+| **Pickle Haus** *(Client)* | Production web platform rebuild for a live consumer brand | Next.js, TypeScript — end-to-end storefront rebuild & production launch *(attributed in site footer)* | [picklehaus.in](https://picklehaus.in) |
+| **Defence Simplified** *(Client)* | Live coaching & exam-prep platform | React, TypeScript, Vite, Supabase — full frontend build, SQL schema migrations & production deployment | [defencesimplified.in](https://defencesimplified.in) |
+| **Sideline Media** *(Client)* | Marketing site + internal content-ops dashboard for a media production house | Next.js 14, TypeScript, Tailwind CSS, Framer Motion — replaced Notion/Sheets tracking with content calendar, pipeline & brand-deal ops | [sideline-media-web.vercel.app](https://sideline-media-web.vercel.app) |
+| **CertiFast** | Client-side bulk certificate generator from Slides/PPTX/Excel with public verification | React, Vite, `jsPDF`, `xlsx`, Supabase, Razorpay — in-browser PDF/PNG batch generation so student/employee data never leaves the client | [certificate-generator-one-rosy.vercel.app](https://certificate-generator-one-rosy.vercel.app) |
 
-## Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-nirmal&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF" width="100%"/>
+---
 
-<br>
+### Open-Source Systems
 
-## Stats
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="410" src="https://github-stats-extended.vercel.app/api?username=aryan-nirmal&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=7AA2F7&text_color=FFFFFF&icon_color=7AA2F7" alt="Aryan's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img width="410" src="https://streak-stats.demolab.com/?user=aryan-nirmal&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakNum=7AA2F7&sideNums=7AA2F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Aryan's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+| Repository | Focus | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Distributed Task Queue** | Priority scheduling (`ZSET`), exponential backoff retries, per-worker rate limiting & live SSE dashboard | Python, FastAPI, Redis, Docker | [Live](https://distributed-job-queue-system-chi.vercel.app) · [Code](https://github.com/aryan-nirmal/distributed-job-queue-system) |
+| **LLM Observability Platform** | FastAPI middleware logging prompt/response tokens, spend, and p50/p95 latency | Python, FastAPI, SQLAlchemy | [Code](https://github.com/aryan-nirmal/llm-observability-platform) |
+| **Offline LLM CLI** | Local-first CLI inference wrapper with session persistence via Ollama | Python, Ollama | [Code](https://github.com/aryan-nirmal/offline-llm-cli) |
 
-<div align="center">
-<sub><i>If it's not shipped, it doesn't count.</i></sub>
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+### Core Stack
+
+- **Frontend:** TypeScript, JavaScript (ES6+), React, Next.js, Vite, Tailwind CSS
+- **Backend & Data:** Node.js, Python, FastAPI, PostgreSQL, Supabase (Auth, RLS, RPCs), Redis, Docker
+- **Commerce & Infra:** Razorpay, Shiprocket, Google OAuth, HMAC Webhooks, Vercel, Cloudflare
